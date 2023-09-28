@@ -1,0 +1,10 @@
+Hello,dear friends,
+
+I am very interested in your project 'manjaro-arm'.
+Images Manjaro-ARM-xfce-gtking-pro-20230904.img.xz  works great on GT-King :-)
+I would like this amazing and useful project to continue to develop and improve successfully.
+However, I didn't find an issue section for your project on github, and I don't know how to communicate my thoughts to you.
+Please tell me how I can inform the developers of your project about the shortcomings of the project that I have noticed and my wishes?
+Thank you!
+
+Best regards
